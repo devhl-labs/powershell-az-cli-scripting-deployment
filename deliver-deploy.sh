@@ -7,10 +7,10 @@ set -ex
 # for cloning in delivery
 
 # TODO: enter your GitHub user name
-github_username=
+github_username=devhl-labs
 
 # TODO: enter the name of your project branch that has your updated code
-solution_branch=
+solution_branch=3-aadb2c
 
 # api
 api_service_user=api-user
